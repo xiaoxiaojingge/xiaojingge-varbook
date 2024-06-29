@@ -38,3 +38,5 @@ target
 /package-lock.json
 
 /.vitepress/cache/
+
+/varbook-server/src/main/resources/static/

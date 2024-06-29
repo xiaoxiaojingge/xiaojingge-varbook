@@ -1,5 +1,5 @@
 <template>
-  <a href="https://github.com/xiaoxiaojingge/varbook" target="_blank">
+  <a href="https://github.com/xiaoxiaojingge/xiaojingge-varbook" target="_blank">
     <div class="button-icon icon-github" />
   </a>
 </template>
